@@ -46,3 +46,12 @@ Color Interpolation with lerp
 Texture Interpolation with lerp
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/16501986/192797477-9e6115e7-0070-493e-b6af-86da63439a59.gif)
+
+<h4>-Chapter 8-</h4>
+
+Texture Interpolation with Texture
+
+<img width="528" alt="Screen Shot 2022-09-28 at 17 02 50" src="https://user-images.githubusercontent.com/16501986/192806097-8d73354c-a7db-486e-887c-409a8594c4f1.png">
+
+
+
