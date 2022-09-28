@@ -27,3 +27,10 @@ Transparent and ZWrite
 Sprite Shader , add cull off and vertex color
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/16501986/192764051-f1a63e92-192d-4a1c-9e21-233dc6dba3e3.gif)
+
+
+<h4>-Chapter 5-</h4>
+
+Planar Mapping
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/16501986/192769718-ee079374-c3bf-4c14-80f8-84092db29ae3.gif)
