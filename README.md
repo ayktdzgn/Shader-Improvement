@@ -34,3 +34,10 @@ Sprite Shader , add cull off and vertex color
 Planar Mapping
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/16501986/192769718-ee079374-c3bf-4c14-80f8-84092db29ae3.gif)
+
+<h4>-Chapter 6-</h4>
+
+Color Interpolation with lerp
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/16501986/192793146-b45eb2d4-696e-471f-b974-15d7dc822781.gif)
+
