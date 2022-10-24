@@ -45,9 +45,9 @@ Shader "Unlit/Chapter9"
 
             fixed4 frag (v2f i) : SV_Target
             {
-                float2 uv_front = TRANSFORM_TEX(i.worldPos.xy,_MaintTex);
-                float2 uv_side = TRANSFORM_TEX(i.worldPos.zy,_MaintTex);
-                float2 uv_top = TRANSFORM_TEX(i.worldPos.xz,_MaintTex);
+                float2 uv_front = TRANSFORM_TEX(i.worldPos.xy,_MainTex);
+                float2 uv_side = TRANSFORM_TEX(i.worldPos.zy,_MainTex);
+                float2 uv_top = TRANSFORM_TEX(i.worldPos.xz,_MainTex);
 
                 
 
